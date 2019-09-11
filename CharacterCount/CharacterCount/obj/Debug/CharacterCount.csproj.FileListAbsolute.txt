@@ -1,0 +1,14 @@
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\bin\Debug\CharacterCount.exe
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\bin\Debug\CharacterCount.exe.config
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.g.resources
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.exe
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\obj\Debug\CharacterCount.pdb
+C:\Users\Jonathan\source\repos\CharacterCount\CharacterCount\bin\Debug\CharacterCount.pdb

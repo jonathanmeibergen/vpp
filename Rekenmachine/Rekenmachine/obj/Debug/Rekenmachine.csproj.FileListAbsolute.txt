@@ -1,0 +1,14 @@
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.g.resources
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\Jonathan\source\repos\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
