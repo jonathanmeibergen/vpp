@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.g.resources
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\Jonathan\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

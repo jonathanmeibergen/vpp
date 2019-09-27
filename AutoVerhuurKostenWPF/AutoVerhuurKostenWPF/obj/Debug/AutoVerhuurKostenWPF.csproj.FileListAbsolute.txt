@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\bin\Debug\AutoVerhuurKostenWPF.exe.config
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\bin\Debug\AutoVerhuurKostenWPF.exe
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\bin\Debug\AutoVerhuurKostenWPF.pdb
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.g.resources
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.exe
+C:\Users\Jonathan\source\repos\AutoVerhuurKostenWPF\AutoVerhuurKostenWPF\obj\Debug\AutoVerhuurKostenWPF.pdb

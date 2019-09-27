@@ -1,0 +1,25 @@
+﻿<Window x:Class="OuderBijdrageWPF.MainWindow"
+        x:Name="panel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OuderBijdrageWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <Label Content="Aantal kinderen jonger dan 10 jaar?" HorizontalAlignment="Left" Margin="194,113,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal kinderen ouder dan 10 jaar?" HorizontalAlignment="Left" Margin="194,183,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb_toeslag" Content="0" HorizontalContentAlignment="Right" Width="64" HorizontalAlignment="Left" Margin="323,254,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.853,-2.249"/>
+        <RadioButton x:Name="rb_aKindJD10_geen" GroupName="rbg_aKindJD10" Content="geen" HorizontalAlignment="Left" Margin="202,144,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindJD10_1" GroupName="rbg_aKindJD10" Content="1" HorizontalAlignment="Left" Margin="302,144,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindJD10_2" GroupName="rbg_aKindJD10" Content="2" HorizontalAlignment="Left" Margin="332,144,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindJD10_3" GroupName="rbg_aKindJD10" Content="3" HorizontalAlignment="Left" Margin="362,144,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindOD10_geen"  GroupName="rbg_aKindOD10" Content="geen" HorizontalAlignment="Left" Margin="202,214,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindOD10_1" GroupName="rbg_aKindOD10" Content="1" HorizontalAlignment="Left" Margin="302,214,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aKindOD10_2" GroupName="rbg_aKindOD10" Content="2" HorizontalAlignment="Left" Margin="332,214,0,0" VerticalAlignment="Top"/>
+        <Label Content="Alleenstaande ouder?" HorizontalAlignment="Left" Margin="194,43,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aOuder_nee" GroupName="rbg_aOuder" Content="nee" HorizontalAlignment="Left" Margin="202,74,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb_aOuder_ja" GroupName="rbg_aOuder" Content="ja" HorizontalAlignment="Left" Margin="302,74,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

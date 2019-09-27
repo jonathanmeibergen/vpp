@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\bin\Debug\TaxiKostenWPF.exe.config
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\bin\Debug\TaxiKostenWPF.exe
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\bin\Debug\TaxiKostenWPF.pdb
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.g.resources
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.exe
+C:\Users\Jonathan\source\repos\TaxiKostenWPF\TaxiKostenWPF\obj\Debug\TaxiKostenWPF.pdb

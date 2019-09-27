@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\bin\Debug\OuderBijdrageWPF.exe.config
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\bin\Debug\OuderBijdrageWPF.exe
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\bin\Debug\OuderBijdrageWPF.pdb
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.g.resources
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.exe
+C:\Users\Jonathan\source\repos\OuderBijdrageWPF\OuderBijdrageWPF\obj\Debug\OuderBijdrageWPF.pdb
