@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF_MarkupCompile.cache
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF_MarkupCompile.lref
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\bin\Debug\VlaggenQuizWPF.exe.config
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\bin\Debug\VlaggenQuizWPF.exe
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\bin\Debug\VlaggenQuizWPF.pdb
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\MainWindow.baml
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.g.resources
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.exe
+C:\Users\Jonathan\source\repos\VlaggenQuizWPF\VlaggenQuizWPF\obj\Debug\VlaggenQuizWPF.pdb

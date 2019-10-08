@@ -1,0 +1,17 @@
+﻿<Window x:Class="VlaggenQuizWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VlaggenQuizWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="780">
+    <Grid x:Name="grid">
+        <Button x:Name="bt_answer1" Content="" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="bt_answer2" Content="" HorizontalAlignment="Left" Margin="200,389,0,0" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="bt_answer3" Content="" HorizontalAlignment="Left" Margin="390,389,0,0" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="bt_answer4" Content="" HorizontalAlignment="Left" Margin="580,389,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lb_score" Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Window>
