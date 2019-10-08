@@ -28,9 +28,40 @@ namespace TaxiKostenWPF
         private int eindMinuten;
         private int kilometers;
         private char[] digits = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+        private string[] dagNamen = { "maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag" };
+        private List<Button> weekButtons;
+        private Button prevButton;
+        private string dag;
+
     public MainWindow()
         {
             InitializeComponent();
+
+
+
+            weekButtons = new List<Button>();
+            double widthValue = (double)(w_main.Width - (10 * (dagNamen.Length-1))) / dagNamen.Length;
+
+            WrapPanel wpp = new WrapPanel();
+            wpp.Margin = new Thickness(0,10,0,5);
+
+            for (int i = 0; i < dagNamen.Length; i++)
+            {
+                Button btn = new Button();
+                btn.Content = dagNamen[i];
+                //btn.Width = widthValue;
+
+                double value = 40;
+                btn.Height = 64;
+                btn.MinWidth = widthValue;
+                //double widthValue = (double)(10 * i)+30*i;
+                btn.Margin = new Thickness(5, 5, 0, 0);
+                btn.HorizontalAlignment = HorizontalAlignment.Left;
+                btn.VerticalAlignment = VerticalAlignment.Top;
+                btn.Click += Btn_Click;
+                wpp.Children.Add(btn);
+            }
+            stp_main.Children.Insert(0, wpp);
 
             tbKilometers.MaxLength = 5;
             tbKilometers.Text = "";
@@ -54,6 +85,8 @@ namespace TaxiKostenWPF
                 cbEindtTijdMinuten.Items.Add(timeValue);
             }
 
+            dag = dagNamen[0];
+
             cbStartTijdUren.SelectedIndex = 0;
             cbStartTijdMinuten.SelectedIndex = 0;
             cbEindtTijdUren.SelectedIndex = 0;
@@ -65,6 +98,25 @@ namespace TaxiKostenWPF
             cbEindtTijdMinuten.SelectionChanged += cb_SelectionChanged;
 
             berekenRitPrijs();
+        }
+
+        private void Btn_Click(object sender, RoutedEventArgs e)
+        {
+            if(prevButton != null)
+            {
+                prevButton.Background = Brushes.LightGray;
+                prevButton = sender as Button;
+
+            } else
+            {
+                prevButton = sender as Button;
+            }
+
+            Button btn = sender as Button;
+            btn.Background = Brushes.LightGreen;
+            dag = btn.Content.ToString();
+            berekenRitPrijs();
+            Console.WriteLine("selected dag is :{0}", dag);
         }
 
         private void TbKilometers_TextChanged(object sender, TextChangedEventArgs e)
@@ -82,7 +134,7 @@ namespace TaxiKostenWPF
             }
 
             tbKilometers.Text = kmText;
-            kilometers = int.Parse(kmText);
+            kilometers = (kmText != "")? int.Parse(kmText) : 0;
 
             berekenRitPrijs();
         }
@@ -105,7 +157,7 @@ namespace TaxiKostenWPF
             int totaalMinuten = 0;
             int minutenNormaal = 0;
             int minutenHoog;
-            int totaalPrijs;
+            float totaalPrijs;
             int startNT = 8*60; //start normaal tarief
             int eindNT = 18*60; //eind normaal tarief
 
@@ -128,7 +180,6 @@ namespace TaxiKostenWPF
                 if (RitEind > eindNT)
                 {
                     minutenNormaal = eindNT - RitStart;
-                    
                 }
                 else
                 {
@@ -136,11 +187,18 @@ namespace TaxiKostenWPF
                 }
             }
 
-
             minutenHoog = totaalMinuten - minutenNormaal;
             totaalPrijs = kilometers * 100 + (25 * minutenNormaal) + (45 * minutenHoog); //in centen
 
-            lbPrijs.Content = ((float) totaalPrijs / 100).ToString();
+            if ((dag.Equals(dagNamen[4]) && RitStart >= (22*60)) ||
+                 dag.Equals(dagNamen[5]) ||
+                 dag.Equals(dagNamen[6]) ||
+                (dag.Equals(dagNamen[0]) && RitStart <= (7*60)))
+            {
+                totaalPrijs *= (float)1.15;
+            }
+
+            lbPrijs.Content = ((float) totaalPrijs / 100).ToString() + " \u20ac";
 
         }
     }

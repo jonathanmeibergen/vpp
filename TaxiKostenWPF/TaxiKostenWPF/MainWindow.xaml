@@ -1,19 +1,35 @@
-﻿<Window x:Class="TaxiKostenWPF.MainWindow"
+﻿<Window x:Class="TaxiKostenWPF.MainWindow" x:Name="w_main"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TaxiKostenWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <ComboBox x:Name="cbStartTijdUren" HorizontalAlignment="Left" Margin="426,138,0,0" VerticalAlignment="Top" Width="48"/>
-        <ComboBox x:Name="cbStartTijdMinuten" HorizontalAlignment="Left" Margin="486,138,0,0" VerticalAlignment="Top" Width="48"/>
+        Title="MainWindow" Height="250" Width="550">
+      
+        <StackPanel x:Name="stp_main" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <WrapPanel>
+                <Label Content="Start Tijd" Margin="0,0,30,0"></Label>
+                <Label Content="Uren:"></Label>
+            <ComboBox x:Name="cbStartTijdUren" HorizontalAlignment="Left" Margin="5,2,0,0" VerticalAlignment="Top" Width="48"/>
+                <Label Content="Minuten:"></Label><ComboBox x:Name="cbStartTijdMinuten" HorizontalAlignment="Left" Margin="5,2,0,0" VerticalAlignment="Top" Width="48"/>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Eind Tijd" Margin="0,0,32,0"></Label>
+                <Label Content="Uren:"></Label>
+                <ComboBox x:Name="cbEindtTijdUren" HorizontalAlignment="Left" Margin="5,2,0,0" VerticalAlignment="Top" Width="48"/>
+                    <Label Content="Minuten:"></Label>
+                <ComboBox x:Name="cbEindtTijdMinuten" HorizontalAlignment="Left" Margin="5,2,0,0" VerticalAlignment="Top" Width="48"/>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Afstand" Margin="0,0,35,0"></Label>
+                <TextBox x:Name="tbKilometers" HorizontalAlignment="Left" Height="23" Margin="5,4,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="64"/>
+                <Label Content="km"></Label>    
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Prijs" Margin="0,0,55,0"></Label>
+                <Label x:Name="lbPrijs" Content="0 euro" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+            </WrapPanel>
+        </StackPanel>
 
-        <ComboBox x:Name="cbEindtTijdUren" HorizontalAlignment="Left" Margin="426,165,0,0" VerticalAlignment="Top" Width="48"/>
-        <ComboBox x:Name="cbEindtTijdMinuten" HorizontalAlignment="Left" Margin="486,165,0,0" VerticalAlignment="Top" Width="48"/>
-        <Label x:Name="lbPrijs" Content="Label" HorizontalAlignment="Left" Margin="446,232,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="tbKilometers" HorizontalAlignment="Left" Height="23" Margin="377,209,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-
-    </Grid>
 </Window>
