@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ToHDrag"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <StackPanel x:Name="mgrid" VerticalAlignment="Bottom" HorizontalAlignment="Left">
-    </StackPanel>
+        Title="MainWindow" Height="450" Width="760">
+    <Grid x:Name="mgrid" VerticalAlignment="Center" HorizontalAlignment="Center" Width="780" Height="410">
+    </Grid>
 </Window>
