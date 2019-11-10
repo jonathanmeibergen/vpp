@@ -6,6 +6,10 @@
         xmlns:local="clr-namespace:ToHDrag"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="760">
+    
     <Grid x:Name="mgrid" VerticalAlignment="Center" HorizontalAlignment="Center" Width="780" Height="410">
+        <Grid  x:Name="uigrid" VerticalAlignment="Center" HorizontalAlignment="Center" Width="780" Height="410">
+            <Button x:Name="Solve" Content="Solve" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        </Grid>
     </Grid>
 </Window>
